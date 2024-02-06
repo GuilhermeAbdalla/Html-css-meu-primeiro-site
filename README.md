@@ -1,2 +1,3 @@
-# Html-css-meu-primeiro-site
- Este é meu primeiro site feito durante as aulas de HTML e Css
+# Meu primeiro site no curso de HTML e Css
+ Este é meu primeiro site feito durante as aulas de HTML e CSS.
+ O site foi realizado como um desafio proposto pelo Gustavo Guanabara. <teste>(teste.com)
